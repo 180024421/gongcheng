@@ -1,0 +1,18 @@
+# 工程城池项目依赖 (Python 3.7+)
+# 若使用 Airtest IDE 自带 Python，请用其 pip 安装
+
+# 自动化与设备控制
+airtest
+
+# 图像处理
+opencv-python
+numpy<2.0
+
+# 地图生成脚本用
+scipy
+
+# OCR 识别城池名称（Python 3.13 推荐 easyocr）
+easyocr                     # 主力引擎
+rapidocr-onnxruntime        # 备用引擎
+pytesseract                 # 备用引擎（需另装 Tesseract-OCR 程序）
+Pillow                      # pytesseract 依赖

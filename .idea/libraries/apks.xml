@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="apks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.venv/Lib/site-packages/airtest/core/android/static/apks/maxpresent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.venv/Lib/site-packages/airtest/core/android/static/apks/rotationwatcher.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
